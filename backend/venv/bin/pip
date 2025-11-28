@@ -1,4 +1,4 @@
-#!/home/omar-mahat/amina/task-manager/backend/venv/bin/python3
+#!/home/amina/code/task-manager/backend/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
